@@ -1,7 +1,7 @@
 here::i_am(
   "code/01_make_output.R"
 )
-
+#test of the code
 set.seed(1)
 random_numbers1 <- rnorm(100)
 
